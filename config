@@ -378,5 +378,7 @@ mode "$mode_gaps_outer" {
 # in ~/.i3/config.
 #
 # Please remove the following exec line:
-#######################################################################
+###########################################
+############################
 exec --no-startup-id i3-config-wizard
+exec --no-startup-id feh --bg-scale /usr/share/blackarch/artwork/lxdm/ba-lxdm.png
